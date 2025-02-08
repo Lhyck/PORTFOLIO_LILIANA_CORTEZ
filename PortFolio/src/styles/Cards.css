@@ -1,0 +1,26 @@
+.cardList{
+
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    gap: 50px;
+      
+ } 
+
+ .cardList2{
+   background: rgb(134, 127, 138);
+    border-radius: 16px;
+    display:inline-flex;
+    flex-direction: row;
+    padding: 10px;
+    box-shadow: 0 0 70px  rgb(156, 97, 161);
+        gap: 70px;
+ }
+
+ .card_logo img{
+  border: 4px rgb(156, 97, 161) solid !important;
+
+ }
