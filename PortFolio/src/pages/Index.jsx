@@ -8,7 +8,7 @@ function Index() {
     <>
    <div>
    <Card className="bg-dark text-white">
-      <Card.Img src="/Images/Banner.jfif" alt="Card image" />
+      <Card.Img src={`http://localhost:5173/src/assets/Images/Banner.jfif`} alt="Card image" />
     
       <Card.ImgOverlay>
         <Card.Title></Card.Title>

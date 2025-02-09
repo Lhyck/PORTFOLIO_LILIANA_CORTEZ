@@ -12,7 +12,7 @@ function Project () {
                   <div className="col-sm-6 mb-3 mb-sm-0">
                     <div className="card rounded-4 shadow">
                       <div className="d-flex justify-content-center p-3">
-                        <img src="/Images/Portal2.png" class="card-img-top w-15 rounded-4"
+                        <img src={`http://localhost:5173/src/assets/Images/Portal2.png`} class="card-img-top w-15 rounded-4"
                           alt="Imagen del proyecto" />
                       </div>
                      
@@ -30,7 +30,7 @@ function Project () {
                   <div className="col-sm-6 mb-3 mb-sm-0">
                     <div className="card rounded-4 shadow">
                       <div className="d-flex justify-content-center p-3">
-                        <img src="/Images/boostrapPortal.png" class="card-img-top w-15 rounded-4"
+                        <img src={`http://localhost:5173/src/assets/Images/boostrapPortal.png`} class="card-img-top w-15 rounded-4"
                           alt="Imagen del proyecto" />
                       </div>
                      
@@ -55,7 +55,7 @@ function Project () {
                   <div className="col-sm-6 mb-3 mb-sm-0">
                     <div className="card rounded-4 shadow">
                       <div className="d-flex justify-content-center p-3">
-                        <img src="/Images/Portal3.png" class="card-img-top w-15 rounded-4"
+                        <img src={`http://localhost:5173/src/assets/Images/Portal3.png`} class="card-img-top w-15 rounded-4"
                           alt="Imagen del proyecto" />
                       </div>
                      
@@ -73,7 +73,7 @@ function Project () {
                   <div className="col-sm-6 mb-3 mb-sm-0">
                     <div className="card rounded-4 shadow">
                       <div className="d-flex justify-content-center p-3">
-                        <img src="/Images/Portal5.png" class="card-img-top w-15 rounded-4"
+                        <img src={`http://localhost:5173/src/assets/Images/Portal5.png`} class="card-img-top w-15 rounded-4"
                           alt="Imagen del proyecto" />
                       </div>
                      

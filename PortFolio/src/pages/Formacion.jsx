@@ -7,7 +7,7 @@ function Formacion() {
     return(
    <div>
 <Card className="bg-dark text-white">
-      <Card.Img src="/Images/unju.jfif" alt="Card image" />
+      <Card.Img src= {`http://localhost:5173/src/assets/Images/unju.jfif`} className='ImagenCard' alt="Card image" />
       <Card.ImgOverlay>
         <Card.Text>    
         <h1 className="clase1">Educación Universitaria</h1>
