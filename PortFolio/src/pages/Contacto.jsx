@@ -132,7 +132,7 @@ function Contacto() {
                     </div>
 
                     <div className="btn-field">
-                        <button id="signUp" type="submit">Enviar</button>
+                        <button id="signUp" type="submit" className='btn-dark text-blue'>Enviar</button>
                     </div>
                 </form>
             </div>
